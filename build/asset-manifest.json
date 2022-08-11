@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.15ab1187.css",
+    "main.js": "/static/js/main.5255700d.js",
+    "static/js/787.97250a4b.chunk.js": "/static/js/787.97250a4b.chunk.js",
+    "static/media/Yekan-Bakh-EN-03-Light.woff": "/static/media/Yekan-Bakh-EN-03-Light.1aea9972f267ea32e666.woff",
+    "static/media/Yekan-Bakh-EN-05-Medium.woff": "/static/media/Yekan-Bakh-EN-05-Medium.ee15b4f4037baf6f81f3.woff",
+    "static/media/Yekan-Bakh-EN-01-Hairline.woff": "/static/media/Yekan-Bakh-EN-01-Hairline.98807b84aa310fb307ff.woff",
+    "static/media/Digital-7.ttf.eot": "/static/media/Digital-7.ttf.d842bd61038983f532d3.eot",
+    "static/media/Digital-7.ttf.svg": "/static/media/Digital-7.ttf.4e867eed6c99082c8589.svg",
+    "static/media/Digital-7.ttf.woff": "/static/media/Digital-7.ttf.8e7783d8db97abaa0df5.woff",
+    "index.html": "/index.html",
+    "main.15ab1187.css.map": "/static/css/main.15ab1187.css.map",
+    "main.5255700d.js.map": "/static/js/main.5255700d.js.map",
+    "787.97250a4b.chunk.js.map": "/static/js/787.97250a4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15ab1187.css",
+    "static/js/main.5255700d.js"
+  ]
+}
